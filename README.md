@@ -7,7 +7,7 @@ The goal of citest is to test the function `utils::citation()`
 ## Example
 
 I was having trouble with poppr on travis ci, and Jim Hester
-[pointed me to a commit in R-devel] that might be causeing the 
+[pointed me to a commit in R-devel][hester] that might be causing the 
 hubub. This package investigates that by testing the citation
 function in the vignette
 
