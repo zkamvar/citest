@@ -1,0 +1,17 @@
+---
+title: "Test Citation"
+author: "Zhian N. Kamvar"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Test Citation}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+Testing the citation function:
+
+```{r}
+citation("citest")
+```
+
