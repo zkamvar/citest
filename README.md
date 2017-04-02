@@ -9,6 +9,9 @@ The goal of citest is to test the function `utils::citation()`
 I was having trouble with poppr on travis ci, and Jim Hester
 [pointed me to a commit in R-devel][hester] that might be causing the 
 hubub. This package investigates that by testing the citation
-function in the vignette
+function in the vignette.
+
+I had initially tested this using [poppr's citation file](https://github.com/grunwaldlab/poppr/blob/master/inst/CITATION)
+and then used [boot's citation file](https://github.com/cran/boot/blob/master/inst/CITATION).
 
 [hester]: https://github.com/travis-ci/travis-ci/issues/7549#issuecomment-290776302
