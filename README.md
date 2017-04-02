@@ -1,5 +1,7 @@
 # citest
 
+[![Travis-CI Build Status](https://travis-ci.org/zkamvar/citest.svg?branch=master)](https://travis-ci.org/zkamvar/citest)
+
 The goal of citest is to test the function `utils::citation()`
 
 ## Example
