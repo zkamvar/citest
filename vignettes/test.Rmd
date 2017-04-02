@@ -12,6 +12,6 @@ vignette: >
 Testing the citation function:
 
 ```{r}
-citation("citest")
+citation("boot")
 ```
 
