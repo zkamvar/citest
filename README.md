@@ -4,6 +4,10 @@
 
 The goal of citest is to test the function `utils::citation()`
 
+**Update:** this was fixed by Martin Maechler:    
+:tada: https://stat.ethz.ch/pipermail/r-devel/2017-April/074027.html :tada:    
+:sparkles: https://github.com/wch/r-source/commit/15d3c233b7ee3c4f269184a9775cfc6d16b5ed2e :sparkles:
+
 ## Example
 
 I was having trouble with poppr on travis ci, and Jim Hester
